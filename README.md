@@ -2,10 +2,11 @@
 
 > Play Tic Tac Toe against a friend or an unbeatable computer AI
 
-## Technologies
-- C
-- [SDL2](https://www.libsdl.org/)
-- Make Buildsystem
+| Technologies |
+| --- |
+| C |
+| [SDL2](https://www.libsdl.org/) |
+| [Make](https://www.gnu.org/software/make/manual/make.html) Buildsystem |
 
 * Computer AI uses the minimax algorithm.
 
