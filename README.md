@@ -11,11 +11,11 @@
 * Computer AI uses the minimax algorithm.
 
 ## Screenshots
-<!-- <p align="center">
-    <img src="screenshots/itch-thumbnail.jpg" alt="Start Screen">
+<p align="center">
+    <img src="screenshots/home.png" alt="Start Screen">
 </p>
 
-![Level 1](/screenshots/level1.png)
+<!-- ![Level 1](/screenshots/level1.png)
 ![Level 2](/screenshots/level2.png)
 ![Level 4 - Loss](/screenshots/level4-loss.png)
 ![Level 5 - Win](/screenshots/level5-win.png) -->
