@@ -1,4 +1,4 @@
-![Logo](assets/logo.png)
+![Logo](assets/icon.png)
 # Tic Tac Toe
 
 > Play Tic Tac Toe against a friend or an unbeatable computer AI
