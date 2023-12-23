@@ -1,3 +1,4 @@
+![Logo](assets/logo.png)
 # Tic Tac Toe
 
 > Play Tic Tac Toe against a friend or an unbeatable computer AI
@@ -13,12 +14,10 @@
 ## Screenshots
 <p align="center">
     <img src="screenshots/home.png" alt="Start Screen">
+    <img src="screenshots/gameplay.png" alt="2 player example">
+    <img src="screenshots/o-won.png" alt="O won">
+    <img src="screenshots/play-against-ai.gif" alt="Gif playing against AI">
 </p>
-
-<!-- ![Level 1](/screenshots/level1.png)
-![Level 2](/screenshots/level2.png)
-![Level 4 - Loss](/screenshots/level4-loss.png)
-![Level 5 - Win](/screenshots/level5-win.png) -->
 
 ## Setup Instructions
 1. Clone repo
