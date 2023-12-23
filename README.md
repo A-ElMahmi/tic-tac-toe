@@ -19,10 +19,6 @@
     <img src="screenshots/play-against-ai.gif" alt="Gif playing against AI">
 </p>
 
-## Setup Instructions
+## Setup Instructions (Windows only)
 1. Clone repo
-2. Run executable
-
-```bash
-$ ./build/main.exe
-```
+2. Run executable (double click on `TicTacToe.exe`)
